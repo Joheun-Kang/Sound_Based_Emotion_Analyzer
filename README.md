@@ -1,7 +1,7 @@
 # Sound_Based_Emotion_Analyzer
 Joheun Kang 
 
-## DATA 
+## Data
 
 1.RAVDESS
 2.TESS 

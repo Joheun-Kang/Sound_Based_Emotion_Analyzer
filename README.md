@@ -3,8 +3,8 @@ Joheun Kang
 
 ## Data
 
-1.RAVDESS
-2.TESS 
+1.RAVDESS <br>
+2.TESS <br>
 
 RAVDESS data is in the __raw_data_1__ and the TESS data is in the __raw_data_2__.
 You can download the two folders from my Google Drive using below link.
@@ -23,7 +23,7 @@ In the folder named "saved_models", there are <br>
 model_new.json and new.h5 are the pre-trained model and the new.h5 is its weights. 
 
 
-## RUN PROGRAM
+## Run Program
 
 To run the program, please download "saved_models" file ONLY. 
 Then, go to the "saved_models" folder and run 
@@ -35,5 +35,5 @@ $ python emotion_detection.py
 Then, the program will run, and the recored file will be saved.
 
 
-## CHECK TRAINING PROCESS
+## Check Training Process
 If you want to check the training process, please open "emotion_analyzer_model_training.ipynb" and see how the model is trained. 
